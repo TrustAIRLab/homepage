@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "TrustAIR Lab"
+title: "Trustworthy AI Research Lab (TrustAIR Lab)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Trustworthy AI Research Lab (TrustAIR Lab)
+About Us
 ======
 TrustAIRLab is a research lab dedicated to the trustworthy machine learning, with a focus on safety, privacy, and security. It aims to
 
