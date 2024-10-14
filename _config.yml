@@ -12,7 +12,7 @@ title                    : "TrustAIR Lab"
 title_separator          : "-"
 name                     : &name "TrustAIR Lab"
 description              : &description "xxx"
-url                      : https://trustairlab.github.io/homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://trustairlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -245,15 +245,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+
   # _publications
   - scope:
       path: ""
